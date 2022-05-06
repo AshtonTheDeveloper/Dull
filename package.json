@@ -1,0 +1,24 @@
+{
+  "name": "dull",
+  "version": "0.0.1",
+  "description": "A Discord bot built in JavaScript using Discord.js V13.",
+  "main": "src/index.js",
+  "scripts": {
+    "dullr": "node src/index.js",
+    "drulldr": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshtonTheDeveloper/Dull.git"
+  },
+  "author": "Ashton.#0704",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AshtonTheDeveloper/Dull/issues"
+  },
+  "homepage": "https://github.com/AshtonTheDeveloper/Dull#readme",
+  "devDependencies": {
+    "chalk": "^5.0.1",
+    "discord.js": "^13.6.0"
+  }
+}
